@@ -43,3 +43,12 @@ h1,h2{
     height: 320px;
     width: 500px;
 }
+.leftright{
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    height: 320px;
+    width: 600px;
+}
